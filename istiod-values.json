@@ -1,0 +1,1 @@
+global.istioNamespace: "istio-system"
